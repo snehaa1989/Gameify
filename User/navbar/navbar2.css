@@ -31,8 +31,10 @@ nav .logo {
 }
 
 nav .logo img{
-    padding-top: 8%;
+    padding-top: 5%;
+	padding-bottom: 5%;
     width: 200px;
+	height: 150px;
 }
 
 nav .links {
